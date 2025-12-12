@@ -1,6 +1,7 @@
 # Hi, I'm Devarsh 👋  
 
 I'm a Data Analyst / Junior Data Engineer based in Germany with an M.Sc. in Data Science.  
+ex-Siemens, ex-Fractal | M.Sc. Data Science (Berlin) | AWS Certified (Data Engineer & Solutions Architect).
 I sit between analytics and engineering: I move data from messy sources into reliable models and turn them into dashboards or ML use cases that people actually use.
 
 ---
