@@ -16,21 +16,21 @@ If you only have a couple of minutes, start here 👇
 1. **[Privacy CDC Lakehouse](https://github.com/herrdevarsh/privacy-cdc-lakehouse)**  
    Postgres → Debezium → Redpanda → Iceberg/MinIO → Spark → Trino.  
    End-to-end CDC lakehouse with bronze/silver flow, privacy-aware analytics, and documented troubleshooting across the stack.  
-   ➜ Shows that I can build **modern data pipelines, lakehouse workflows, and production-style debugging**.
+   ➜ Shows that I can build **end-to-end, privacy-aware data platforms** from CDC ingestion to lakehouse modeling, analytics serving, and real pipeline debugging.
 
 2. **[E-commerce Data Pipeline](https://github.com/herrdevarsh/ecommerce-data-pipeline)**  
    End-to-end batch pipeline from raw CSV orders to analytics-ready warehouse tables. Includes transformations, validation, star schema modeling, reporting outputs, tests, structured logging, and CI with GitHub Actions.  
-   ➜ Shows that I can build **clean, tested ETL pipelines and BI-ready data models**.
+   ➜ Shows that I can build **reliable batch data pipelines** with validation, dimensional modeling, testing, and CI, not just scripts that work once.
 
 ### Data Analysis / BI
 
 3. **[E-Commerce Sales & Customer Analytics](https://github.com/herrdevarsh/ecommerce-sales-customer-analytics)**  
    End-to-end BI project using Python + Power BI + DAX. Covers revenue/profit reporting, cohort retention, RFM segmentation, customer value analysis, and a multi-page dashboard with time-intelligence measures.  
-   ➜ Shows my **Power BI, business analytics, dashboarding, and analytical storytelling** skills.
+   ➜ Shows that I can build **decision-ready BI products** with clear business metrics, customer segmentation, and dashboards stakeholders can actually use.
 
 4. **[Germany Public Transport Analytics](https://github.com/herrdevarsh/germany-public-transport-analytics)**  
    Analytics project built on Berlin/Brandenburg GTFS data with KPI tables, delay analysis, route prioritization, stop hotspots, and scenario-based impact analysis.  
-   ➜ Shows that I can do **decision-oriented analytics, KPI design, and business-facing BI work**, not just descriptive charts.
+   ➜ Shows that I can build **analytics that drive action**, turning raw operational data into KPIs, prioritization logic, and scenario-based recommendations.
 
 Each repo README explains:
 - the **business / use case**
